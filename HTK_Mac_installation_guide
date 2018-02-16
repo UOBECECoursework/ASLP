@@ -29,7 +29,7 @@ To install HTK tools:
    cd ../HTKTools
    
 3. Install HTK tools:
-   make -f MakeFileCPU install -j4
+   make -f MakefileCPU install -j4
    
 Now there will be some executables under [htk source code directory]/bin.cpu
 "HCompV", "HList" etc.
@@ -45,7 +45,7 @@ To install HLM tools:
    cd ../HLMTools
    
 3. Install HLM tools:
-   make -f MakeFileCPU install -j4
+   make -f MakefileCPU install -j4
    
  Now you will see some new executables under [htk source code directory]/bin.cpu
  "Cluster", "LMerge" etc.
