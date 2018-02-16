@@ -1,0 +1,55 @@
+Source code can be downloaded from
+http://htk.eng.cam.ac.uk/ftp/software/HTK-3.5.beta-2.tar.gz
+Download will start immediately
+
+Decompress to any directory, [htk source code directory]
+
+If you find this instruction confusing, check README for details.
+
+HTK 3.5 comes with three sets of Makefiles enabling compilation for:
+
+1. CPU (standard)
+2. CPU using MKL (Intel Math Kernel library)
+3. NVIDIA GPUs (Graphic Processing Unit) using the NVIDIA CUDA compiler NVCC
+
+Standard CPU installation is recommended.
+
+0. Open terminal, check if gcc is installed. Type in:
+   gcc --version
+   If you get some version information, then follow the rest of this instruction. If not, install gcc first.
+
+To install HTK tools:
+1. Go to HTKLib source code directory:
+   cd [htk source code directory]/HTKLib
+
+2. Compile HTK libs:
+   make -f MakefileCPU all -j4
+  
+3. Go to HTKTools source code directory:
+   cd ../HTKTools
+   
+3. Install HTK tools:
+   make -f MakeFileCPU install -j4
+   
+Now there will be some executables under [htk source code directory]/bin.cpu
+"HCompV", "HList" etc.
+
+To install HLM tools:
+1. Go to HTKLib source code directory:
+   cd [htk source code directory]/HLMLib
+
+2. Compile HLM libs:
+   make -f MakefileCPU all -j4
+  
+3. Go to HLMTools source code directory:
+   cd ../HLMTools
+   
+3. Install HLM tools:
+   make -f MakeFileCPU install -j4
+   
+ Now you will see some new executables under [htk source code directory]/bin.cpu
+ "Cluster", "LMerge" etc.
+ 
+ The usage of these executables are exactly the same as those ".exe" executables we used in Lab2. 
+ 
+   
