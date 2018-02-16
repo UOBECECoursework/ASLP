@@ -35,7 +35,7 @@ Now there will be some executables under [htk source code directory]/bin.cpu
 "HCompV", "HList" etc.
 
 To install HLM tools:
-1. Go to HTKLib source code directory:
+1. Go to HLMLib source code directory:
    cd [htk source code directory]/HLMLib
 
 2. Compile HLM libs:
