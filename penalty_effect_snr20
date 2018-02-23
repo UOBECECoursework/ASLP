@@ -1,0 +1,64 @@
+SNR20
+penalty=-100
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-95
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-90
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-85
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-80
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-75
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-70
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-65
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-60
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-55
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-50
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-45
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-40
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-35
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-30
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-25
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-20
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-15
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-10
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=-5
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=0
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]

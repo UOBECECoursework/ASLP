@@ -1,0 +1,64 @@
+CLEAN
+penalty=-100
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.50, Acc=98.38 [H=852, D=6, S=7, I=1, N=865]
+penalty=-95
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.50, Acc=98.27 [H=852, D=6, S=7, I=2, N=865]
+penalty=-90
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.50, Acc=98.27 [H=852, D=6, S=7, I=2, N=865]
+penalty=-85
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.50, Acc=98.27 [H=852, D=6, S=7, I=2, N=865]
+penalty=-80
+SENT: %Correct=93.75 [H=180, S=12, N=192]
+WORD: %Corr=98.61, Acc=98.27 [H=853, D=5, S=7, I=3, N=865]
+penalty=-75
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.61, Acc=98.15 [H=853, D=4, S=8, I=4, N=865]
+penalty=-70
+SENT: %Correct=93.75 [H=180, S=12, N=192]
+WORD: %Corr=98.73, Acc=98.27 [H=854, D=3, S=8, I=4, N=865]
+penalty=-65
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.73, Acc=98.15 [H=854, D=3, S=8, I=5, N=865]
+penalty=-60
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.73, Acc=98.15 [H=854, D=3, S=8, I=5, N=865]
+penalty=-55
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.73, Acc=98.15 [H=854, D=3, S=8, I=5, N=865]
+penalty=-50
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.84, Acc=98.15 [H=855, D=2, S=8, I=6, N=865]
+penalty=-45
+SENT: %Correct=93.23 [H=179, S=13, N=192]
+WORD: %Corr=98.84, Acc=98.15 [H=855, D=2, S=8, I=6, N=865]
+penalty=-40
+SENT: %Correct=92.71 [H=178, S=14, N=192]
+WORD: %Corr=98.84, Acc=98.03 [H=855, D=2, S=8, I=7, N=865]
+penalty=-35
+SENT: %Correct=92.71 [H=178, S=14, N=192]
+WORD: %Corr=98.84, Acc=98.03 [H=855, D=2, S=8, I=7, N=865]
+penalty=-30
+SENT: %Correct=92.71 [H=178, S=14, N=192]
+WORD: %Corr=98.96, Acc=98.03 [H=856, D=1, S=8, I=8, N=865]
+penalty=-25
+SENT: %Correct=92.71 [H=178, S=14, N=192]
+WORD: %Corr=98.96, Acc=98.03 [H=856, D=1, S=8, I=8, N=865]
+penalty=-20
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.96, Acc=97.80 [H=856, D=1, S=8, I=10, N=865]
+penalty=-15
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.96, Acc=97.69 [H=856, D=1, S=8, I=11, N=865]
+penalty=-10
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.96, Acc=97.46 [H=856, D=1, S=8, I=13, N=865]
+penalty=-5
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=99.08, Acc=97.34 [H=857, D=0, S=8, I=15, N=865]
+penalty=0
+SENT: %Correct=88.54 [H=170, S=22, N=192]
+WORD: %Corr=99.08, Acc=96.99 [H=857, D=0, S=8, I=18, N=865]

@@ -1,0 +1,333 @@
+penalty=-110
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.03, Acc=98.03 [H=848, D=6, S=11, I=0, N=865]
+penalty=-109
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.03, Acc=98.03 [H=848, D=6, S=11, I=0, N=865]
+penalty=-108
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-107
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-106
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-105
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-104
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-103
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-102
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-101
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-100
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-99
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-98
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-97
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-96
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-95
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-94
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-93
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-92
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-91
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-90
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.03, Acc=97.92 [H=848, D=6, S=11, I=1, N=865]
+penalty=-89
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.15, Acc=98.03 [H=849, D=5, S=11, I=1, N=865]
+penalty=-88
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.15, Acc=98.03 [H=849, D=5, S=11, I=1, N=865]
+penalty=-87
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.15, Acc=98.03 [H=849, D=5, S=11, I=1, N=865]
+penalty=-86
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-85
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-84
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-83
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-82
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-81
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-80
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-79
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-78
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-77
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-76
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-75
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-74
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-73
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-72
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-71
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-70
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-69
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-68
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-67
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-66
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-65
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-64
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-63
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-62
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-61
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.15, Acc=97.92 [H=849, D=5, S=11, I=2, N=865]
+penalty=-60
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.15, Acc=97.80 [H=849, D=5, S=11, I=3, N=865]
+penalty=-59
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.15, Acc=97.80 [H=849, D=5, S=11, I=3, N=865]
+penalty=-58
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.15, Acc=97.80 [H=849, D=5, S=11, I=3, N=865]
+penalty=-57
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.15, Acc=97.80 [H=849, D=5, S=11, I=3, N=865]
+penalty=-56
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.15, Acc=97.80 [H=849, D=5, S=11, I=3, N=865]
+penalty=-55
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-54
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-53
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-52
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-51
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-50
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-49
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-48
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-47
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-46
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-45
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-44
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.27, Acc=97.92 [H=850, D=4, S=11, I=3, N=865]
+penalty=-43
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-42
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-41
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-40
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-39
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-38
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-37
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-36
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-35
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-34
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=98.03 [H=851, D=3, S=11, I=3, N=865]
+penalty=-33
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=97.92 [H=851, D=3, S=11, I=4, N=865]
+penalty=-32
+SENT: %Correct=91.67 [H=176, S=16, N=192]
+WORD: %Corr=98.38, Acc=97.92 [H=851, D=3, S=11, I=4, N=865]
+penalty=-31
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.38, Acc=97.80 [H=851, D=3, S=11, I=5, N=865]
+penalty=-30
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.38, Acc=97.80 [H=851, D=3, S=11, I=5, N=865]
+penalty=-29
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.38, Acc=97.80 [H=851, D=3, S=11, I=5, N=865]
+penalty=-28
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-27
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-26
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-25
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-24
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-23
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-22
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.38, Acc=97.69 [H=851, D=3, S=11, I=6, N=865]
+penalty=-21
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.50, Acc=97.80 [H=852, D=2, S=11, I=6, N=865]
+penalty=-20
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.50, Acc=97.80 [H=852, D=2, S=11, I=6, N=865]
+penalty=-19
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.50, Acc=97.80 [H=852, D=2, S=11, I=6, N=865]
+penalty=-18
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.50, Acc=97.80 [H=852, D=2, S=11, I=6, N=865]
+penalty=-17
+SENT: %Correct=91.15 [H=175, S=17, N=192]
+WORD: %Corr=98.50, Acc=97.80 [H=852, D=2, S=11, I=6, N=865]
+penalty=-16
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.50, Acc=97.69 [H=852, D=2, S=11, I=7, N=865]
+penalty=-15
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.50, Acc=97.57 [H=852, D=2, S=11, I=8, N=865]
+penalty=-14
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.50, Acc=97.57 [H=852, D=2, S=11, I=8, N=865]
+penalty=-13
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.50, Acc=97.57 [H=852, D=2, S=11, I=8, N=865]
+penalty=-12
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.61, Acc=97.57 [H=853, D=2, S=10, I=9, N=865]
+penalty=-11
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.61, Acc=97.57 [H=853, D=2, S=10, I=9, N=865]
+penalty=-10
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.61, Acc=97.57 [H=853, D=2, S=10, I=9, N=865]
+penalty=-9
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.73, Acc=97.57 [H=854, D=2, S=9, I=10, N=865]
+penalty=-8
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.84, Acc=97.57 [H=855, D=1, S=9, I=11, N=865]
+penalty=-7
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.84, Acc=97.57 [H=855, D=1, S=9, I=11, N=865]
+penalty=-6
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.84, Acc=97.57 [H=855, D=1, S=9, I=11, N=865]
+penalty=-5
+SENT: %Correct=90.62 [H=174, S=18, N=192]
+WORD: %Corr=98.84, Acc=97.57 [H=855, D=1, S=9, I=11, N=865]
+penalty=-4
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.96, Acc=97.46 [H=856, D=0, S=9, I=13, N=865]
+penalty=-3
+SENT: %Correct=90.10 [H=173, S=19, N=192]
+WORD: %Corr=98.96, Acc=97.46 [H=856, D=0, S=9, I=13, N=865]
+penalty=-2
+SENT: %Correct=89.58 [H=172, S=20, N=192]
+WORD: %Corr=98.96, Acc=97.23 [H=856, D=0, S=9, I=15, N=865]
+penalty=-1
+SENT: %Correct=89.58 [H=172, S=20, N=192]
+WORD: %Corr=98.96, Acc=97.11 [H=856, D=0, S=9, I=16, N=865]
+penalty=0
+SENT: %Correct=89.06 [H=171, S=21, N=192]
+WORD: %Corr=98.84, Acc=96.99 [H=855, D=0, S=10, I=16, N=865]
