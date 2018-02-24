@@ -1,6 +1,8 @@
 #!/usr/bin/python
 ###########################
 #Author: liyao
+#Python version: 2.7
+#Dependency: matplotlib
 #Usage: python plot_penalty_effect.py [penalty effect file name]
 #Functionality: Visualize penalty value's effects on sentence correct rate, sentence correct rate, insertion error, deletion error.
 ###########################
