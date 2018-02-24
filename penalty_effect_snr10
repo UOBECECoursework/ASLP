@@ -1,4 +1,9 @@
-SNR10
+penalty=-110
+SENT: %Correct=70.31 [H=135, S=57, N=192]
+WORD: %Corr=92.14, Acc=92.14 [H=797, D=42, S=26, I=0, N=865]
+penalty=-105
+SENT: %Correct=71.35 [H=137, S=55, N=192]
+WORD: %Corr=92.49, Acc=92.49 [H=800, D=38, S=27, I=0, N=865]
 penalty=-100
 SENT: %Correct=72.92 [H=140, S=52, N=192]
 WORD: %Corr=92.83, Acc=92.83 [H=803, D=36, S=26, I=0, N=865]
@@ -62,3 +67,9 @@ WORD: %Corr=94.57, Acc=92.95 [H=818, D=5, S=42, I=14, N=865]
 penalty=0
 SENT: %Correct=73.44 [H=141, S=51, N=192]
 WORD: %Corr=94.80, Acc=92.72 [H=820, D=4, S=41, I=18, N=865]
+penalty=5
+SENT: %Correct=73.44 [H=141, S=51, N=192]
+WORD: %Corr=94.91, Acc=92.60 [H=821, D=3, S=41, I=20, N=865]
+penalty=10
+SENT: %Correct=71.35 [H=137, S=55, N=192]
+WORD: %Corr=95.03, Acc=91.79 [H=822, D=2, S=41, I=28, N=865]
