@@ -1,3 +1,10 @@
+/***********************************************
+ * Author: liyao
+ * Usage: models_1mixsil HMMnamelist deffile modelfile
+ * Description: Takes hmmdef file(deffile) and expand it into model file(modelfile) according to word/phoneme name list(HMMnamelist)
+ *************************************************/
+
+
 #include <iostream>
 #include <fstream>
 #include <vector>
